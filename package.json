@@ -28,7 +28,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "@babel/runtime": "^7.0.0",
-    "@react-native-community/cli": "^1.2.1",
+    "@react-native-community/cli": "git+https://github.com/ozberkctn/forked-react-native-cli.git",
     "absolute-path": "^0.0.0",
     "art": "^0.10.0",
     "base64-js": "^1.1.2",
